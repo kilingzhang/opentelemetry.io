@@ -29,7 +29,7 @@
   "private": true,
   "devDependencies": {
     "autoprefixer": "^10.4.0",
-    "hugo-extended": "^0.89.2",
+    "hugo-extended": "^0.100.2",
     "netlify-cli": "^6.14.25",
     "postcss": "^8.3.11",
     "postcss-cli": "^9.0.2"
